@@ -1,0 +1,20 @@
+{
+  "name": "testi_nodejs",
+  "version": "1.0.0",
+  "description": "Eka testi nodejs ja express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node 2server.js",
+    "dev": "nodemon index5.js",
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "author": "\" Joona Lomu\"",
+  "license": "Riveria",
+  "dependencies": {
+    "express": "^4.18.2",
+    "tar": "^6.1.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20 "
+  }
+}
